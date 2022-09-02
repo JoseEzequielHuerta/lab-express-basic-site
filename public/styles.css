@@ -1,0 +1,36 @@
+ *{
+  margin: 0;
+  padding: 0;
+ }
+ body {
+  background-color:rgb(198, 184, 184); 
+  color:black;
+  font-size: 2.5em;    
+}
+h1 { 
+  color: black;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+div ul {
+  text-align: center;
+}
+img{
+  width: 100%;
+  height: 40vw;
+}
+.butom{
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-evenly;
+  margin-top: 1em;
+  margin-bottom: 1em;   
+}
+a {
+  text-decoration: none;
+}
